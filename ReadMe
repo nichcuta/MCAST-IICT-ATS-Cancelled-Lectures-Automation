@@ -1,0 +1,11 @@
+The aim of this Python script is to web scrape both "http://ict.mcast.edu.mt/atsstudent", & "http://moodle.mcast.edu.mt/course/view.php?id=327"
+to alert a FB group when new Results, Assignments, and Cancelled Lectures are published.
+
+Python Dependencies:
+  requests_ntlm
+  pyvirtualdisplay (Required if running in CLI on Linux)
+  selenium
+  requests
+  facebook (Facebook integration to send Group notifications. A FB app needs to be setup)
+
+It is fairly simple to Setup, if one needs help, dont hesitate to contact me :)
